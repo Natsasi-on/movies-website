@@ -3,7 +3,7 @@
 <p align="center">
   Welcome to our movie website! This is a place where you can discover and explore various movies easily.
     <br>
-    //<a href="https://nsicecream.netlify.app/index.html">[ Live Website ]</a>
+    <!--<a href="https://nsicecream.netlify.app/index.html">[ Live Website ]</a>-->
 </p>
 
 ## Project Overview
