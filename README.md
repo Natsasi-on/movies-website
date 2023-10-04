@@ -26,6 +26,11 @@ In the process of creating this website, we utilized the following skills:
 * **Web Design:** Ensuring a visually appealing layout that engages and captivates our audience.
 * **Search Functionality:** We added filters to make movie searching easy..
 
+## Screenshorts
+![landing page](https://github.com/Natsasi-on/movies-website/assets/100752017/89da6e98-34ee-45fe-abd6-772dc1290220)
+![search for harry potter](https://github.com/Natsasi-on/movies-website/assets/100752017/427a8ecc-b32f-44a2-8493-ea7a24566c91)
+![not found](https://github.com/Natsasi-on/movies-website/assets/100752017/aab38c4b-a181-4dc1-8f2c-6fe2696bc59d)
+
 ## License
 This project is licensed under the Natsasion License - see the [LICENSE.md](LICENSE) file for details.
 
